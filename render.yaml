@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: NotaCerta
-    env: node
-    plan: free
-    buildCommand: yarn install && yarn build
-    startCommand: yarn start
