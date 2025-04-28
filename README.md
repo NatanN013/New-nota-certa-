@@ -1,1 +1,0 @@
-# New-nota-certa-
